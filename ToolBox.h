@@ -86,6 +86,7 @@ typedef  Z_longword         *Z_longwordptr;
     typedef bool boolean;
 #else
     #ifdef MACOS_TRADITIONAL
+		#include <MacTypes.h>
         #define boolean Boolean
     #else
         typedef enum { false = FALSE, true = TRUE } boolean;

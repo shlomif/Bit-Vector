@@ -319,11 +319,12 @@ extern const N_int BV_ByteNorm[256];
 /*****************************************************************************/
 
 /*****************************************************************************/
-/*  VERSION:  7.1                                                            */
+/*  VERSION:  7.2                                                            */
 /*****************************************************************************/
 /*  VERSION HISTORY:                                                         */
 /*****************************************************************************/
 /*                                                                           */
+/*    Version 7.2  03.03.12  Untangling stdbool header file maze.            */
 /*    Version 7.1  29.09.09  Added prefix "BV_" to all global identifiers.   */
 /*    Version 7.0  22.08.09  Fixed bugs in "GCD2()" and "Boot()".            */
 /*    Version 6.9  12.08.09  Removed an obsolete warning (memory leak).      */

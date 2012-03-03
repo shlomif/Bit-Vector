@@ -1,5 +1,5 @@
                     =====================================
-                      Package "Bit::Vector" Version 7.1
+                      Package "Bit::Vector" Version 7.2
                     =====================================
 
 
@@ -29,6 +29,12 @@ overloaded operators for maximum ease of use.
 
 The C library can nevertheless be used stand-alone, without Perl.
 
+
+What's new in version 7.2:
+--------------------------
+
+ +  Fix compilation problems with perl 5.15.2-436-gbd31be4 and later;
+    https://rt.perl.org/rt3/Public/Bug/Display.html?id=99408
 
 What's new in version 7.1:
 --------------------------

@@ -1,5 +1,5 @@
                     =====================================
-                      Package "Bit::Vector" Version 7.1
+                      Package "Bit::Vector" Version 7.2
                     =====================================
 
 
@@ -9,6 +9,11 @@
 
 Version history:
 ----------------
+
+Version 7.2   03.03.2012
+
+ +  Fix compilation problems with perl 5.15.2-436-gbd31be4 and later;
+    https://rt.perl.org/rt3/Public/Bug/Display.html?id=99408
 
 Version 7.1   29.09.2009
 

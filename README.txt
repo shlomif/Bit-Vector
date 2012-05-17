@@ -33,14 +33,7 @@ The C library can nevertheless be used stand-alone, without Perl.
 What's new in version 7.2:
 --------------------------
 
- +  Fix compilation problems with perl 5.15.2-436-gbd31be4 and later;
-    https://rt.perl.org/rt3/Public/Bug/Display.html?id=99408
-
-What's new in version 7.1:
---------------------------
-
- +  Added prefix "BV_" to all global identifiers in "BitVector.c",
-    "BitVector.h" and "Vector.xs"
+ +  Changed the definition of the "boolean" data type in ToolBox.h
 
 
 What's new since version 6.5:
@@ -62,7 +55,7 @@ Legal issues:
 
 This package with all its parts is
 
-Copyright (c) 1995 - 2009 by Steffen Beyer.
+Copyright (c) 1995 - 2012 by Steffen Beyer.
 All rights reserved.
 
 This package is free software; you can use, modify and redistribute
@@ -136,7 +129,7 @@ the "zip" archive.
 Note to CPAN Testers:
 ---------------------
 
-After completion, version 7.1 of this module has already
+After completion, version 7.2 of this module has already
 been tested successfully with the following configurations:
 
   Perl 5.005_03  -  Windows XP SP3 & MS VC++ 6.0 (native Perl build)

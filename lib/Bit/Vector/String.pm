@@ -1,7 +1,7 @@
 
 ###############################################################################
 ##                                                                           ##
-##    Copyright (c) 2004 - 2009 by Steffen Beyer.                            ##
+##    Copyright (c) 2004 - 2012 by Steffen Beyer.                            ##
 ##    All rights reserved.                                                   ##
 ##                                                                           ##
 ##    This package is free software; you can redistribute it                 ##

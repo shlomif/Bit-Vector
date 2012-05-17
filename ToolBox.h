@@ -123,11 +123,12 @@ typedef  Z_longword         *Z_longwordptr;
 /*****************************************************************************/
 
 /*****************************************************************************/
-/*  VERSION:  5.6                                                            */
+/*  VERSION:  5.7                                                            */
 /*****************************************************************************/
 /*  VERSION HISTORY:                                                         */
 /*****************************************************************************/
 /*                                                                           */
+/*    Version 5.7   17.05.12  Changed boolean data type.                     */
 /*    Version 5.6   27.07.09  Made it MacOS X compatible.                    */
 /*    Version 5.5   03.10.04  Added compiler directives for C++.             */
 /*    Version 5.4   08.09.02  Added conditional changes for MacOS/MacPerl.   */
@@ -154,7 +155,7 @@ typedef  Z_longword         *Z_longwordptr;
 /*  COPYRIGHT:                                                               */
 /*****************************************************************************/
 /*                                                                           */
-/*    Copyright (c) 1995 - 2009 by Steffen Beyer.                            */
+/*    Copyright (c) 1995 - 2012 by Steffen Beyer.                            */
 /*    All rights reserved.                                                   */
 /*                                                                           */
 /*****************************************************************************/

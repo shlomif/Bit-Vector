@@ -629,7 +629,7 @@ N_word BitVector_Mask(N_int bits)           /* bit vector mask (unused bits) */
 
 charptr BitVector_Version(void)
 {
-    return((charptr)"7.4");
+    return((charptr)"7.5");
 }
 
 N_int BitVector_Word_Bits(void)

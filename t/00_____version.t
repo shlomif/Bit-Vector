@@ -32,7 +32,7 @@ if ($Bit::Vector::VERSION eq "7.5")
 {print "ok $n\n";} else {print "not ok $n\n";}
 $n++;
 
-if (do { $x= Bit::Vector::Version(); warn $x;$x} eq "7.5")
+if (Bit::Vector::Version() eq "7.5")
 {print "ok $n\n";} else {print "not ok $n\n";}
 $n++;
 if (Bit::Vector::Word_Bits() >= 32)
